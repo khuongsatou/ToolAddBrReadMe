@@ -1,0 +1,6 @@
+C:\Users\Yui\source\repos\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\Yui\source\repos\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\Yui\source\repos\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\Yui\source\repos\ConsoleApp1\obj\Release\ConsoleApp1.csproj.ResolveComReference.cache
+C:\Users\Yui\source\repos\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\Yui\source\repos\ConsoleApp1\obj\Release\ConsoleApp1.pdb
